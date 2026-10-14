@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "site_url": "https://jiyoujin.com/",
+  "language": "ja",
+  "timezone": "Asia/Tokyo",
+  "categories": ["副業ライフ", "ノマドライフ", "暮らしの工夫", "自己投資", "ブログラボ"],
+  "article_count": 5,
+  "minimum_body_characters": 5000,
+  "eyecatch_count": 1,
+  "inline_image_count": 1,
+  "delivery_mode": "per_article",
+  "require_delivery_before_next": true,
+  "missing_image_policy": "pause_after_current_article"
+}
